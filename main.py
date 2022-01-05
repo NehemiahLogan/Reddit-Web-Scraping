@@ -9,6 +9,7 @@ def generate_response(user_input):
     "Ok Bye!"
     "You Stink!"
     "Are you alive?"
+    "Wassup Homie"
   ]
   return random.choice(responses)
 
